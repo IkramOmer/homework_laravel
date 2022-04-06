@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    width: 70px;
+    height: 30px;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
